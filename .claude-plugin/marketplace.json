@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "imigracao-portugal-os-marketplace",
+  "description": "Marketplace oficial do imigracao-portugal-os — imigração Portugal em 3 frentes, motor 2024-2026, trava CPA/Lei 10/2024/OA.",
+  "owner": { "name": "IA Combativa" },
+  "plugins": [
+    {
+      "name": "imigracao-portugal-os",
+      "source": "./imigracao-portugal-os",
+      "description": "Imigração para Portugal em 3 frentes (imigrante · comercial · advogado): vistos, CPLP, reagrupamento, nacionalidade 2026, asilo/NAV. Travas anti-defasagem e anti-UPL (OAB ≠ OA). Gaps declarados.",
+      "author": { "name": "IA Combativa" }
+    }
+  ]
+}
