@@ -7,7 +7,7 @@
     {
       "name": "imigracao-portugal-os",
       "source": "./imigracao-portugal-os",
-      "description": "Imigração para Portugal em 3 frentes (imigrante · comercial · advogado): vistos, CPLP, reagrupamento, nacionalidade 2026, asilo/NAV. Travas anti-defasagem e anti-UPL (OAB ≠ OA). Gaps declarados.",
+      "description": "Imigração para Portugal em 3 frentes (imigrante · comercial · advogado): vistos, CPLP, reagrupamento, nacionalidade 2026, asilo/NAV. Travas anti-defasagem e anti-UPL (OAB ≠ OA). Gaps declarados. Não é software livre: o uso é licenciado pela compra (Kirvano) — ver LICENSE.",
       "author": { "name": "IA Combativa" }
     }
   ]
