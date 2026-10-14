@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo 'imigracao-portugal-os pronto. Rode /imigracao-portugal para comecar.'"
+            "command": "printf '%s\\n' '{\"hookSpecificOutput\": {\"hookEventName\": \"SessionStart\", \"additionalContext\": \"imigracao-portugal-os pronto. Rode /imigracao-portugal para comecar.\"}}'"
           }
         ]
       }
